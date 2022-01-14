@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+Nick Granozio
 
 ## 🤓 Course overview and learning outcomes 
 
